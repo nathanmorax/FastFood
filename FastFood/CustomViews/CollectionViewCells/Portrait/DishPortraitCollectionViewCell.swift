@@ -11,7 +11,6 @@ class DishPortraitCollectionViewCell: UICollectionViewCell {
 
     override func awakeFromNib() {
         super.awakeFromNib()
-        // Initialization code
     }
 
 }
