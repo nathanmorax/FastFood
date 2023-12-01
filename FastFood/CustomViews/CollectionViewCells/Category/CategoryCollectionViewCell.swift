@@ -10,7 +10,7 @@ import SDWebImage
 
 class CategoryCollectionViewCell: UICollectionViewCell {
     
-    static let indetifier = String(describing: CategoryCollectionViewCell.self)
+    static let identifier = String(describing: CategoryCollectionViewCell.self)
 
     @IBOutlet weak var categoryImage: UIImageView!
     @IBOutlet weak var categoryTitleLabel: UILabel!
